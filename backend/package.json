@@ -1,0 +1,16 @@
+{
+  "name": "smart-hostel-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for Smart Hostel Complaint Management System",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.1",
+    "express": "^4.19.2",
+    "mongoose": "^9.10.1"
+  }
+}

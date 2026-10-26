@@ -1,0 +1,54 @@
+[
+  {
+    "id": "C1001",
+    "studentName": "Demo Student",
+    "studentEmail": "demo@student.com",
+    "title": "Fan not working",
+    "category": "Electricity",
+    "roomNo": "Room 204, Block A",
+    "description": "The ceiling fan in room 204 has stopped working.",
+    "date": "2026-09-18",
+    "assignedStaff": "",
+    "status": "Pending",
+    "remark": ""
+  },
+  {
+    "id": "C1002",
+    "studentName": "Demo Student",
+    "studentEmail": "demo@student.com",
+    "title": "Wifi very slow",
+    "category": "Wifi / Internet",
+    "roomNo": "Room 312, Block B",
+    "description": "Wifi speed in hostel block B is extremely slow at night.",
+    "date": "2026-09-18",
+    "assignedStaff": "Ramesh Kumar",
+    "status": "Assigned",
+    "remark": "Checking router configuration in Block B."
+  },
+  {
+    "id": "C1003",
+    "studentName": "Demo Student",
+    "studentEmail": "demo@student.com",
+    "title": "Geyser not heating",
+    "category": "Electricity",
+    "roomNo": "Room 101, Block A",
+    "description": "Room 101 geyser is not turning on in the morning",
+    "date": "2026-09-18",
+    "assignedStaff": "Suresh Singh",
+    "status": "In Progress",
+    "remark": ""
+  },
+  {
+    "id": "C1004",
+    "studentName": "Ayush kumar",
+    "studentEmail": "ayush1149.be24@chitkarauniversity.edu.in",
+    "title": "sockets not working",
+    "category": "Electricity",
+    "roomNo": "Room 214, Block C",
+    "description": "since two days sockets are not working",
+    "date": "2026-09-18",
+    "assignedStaff": "Suresh Singh",
+    "status": "In Progress",
+    "remark": "Replaced damaged socket and verified voltage"
+  }
+]
